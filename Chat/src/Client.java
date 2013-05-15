@@ -32,7 +32,7 @@ import javax.swing.text.Document;
 
 
 public class Client {
-
+//Lets see if this gets updates on Client code
 	static JFrame guiFrame = new JFrame();
 
 	static Socket socket;
